@@ -1,0 +1,181 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta name="robots" content="noindex,follow">
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<title>18Unity3DAnimation外文文献</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>三亿文库</o:Author>
+  <o:LastAuthor>三亿文库</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2011-07-03T05:27:00Z</o:Created>
+  <o:LastSaved>2017/5/21 23:45:23Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>9</o:Words>
+  <o:Company>http://3y.uu456.com</o:Company>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@仿宋_GB2312";
+	panose-1:2 1 6 9 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:13.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-next:正文;
+	margin-top:17.0pt;
+	margin-right:0cm;
+	margin-bottom:16.5pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:140%;
+	mso-pagination:lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:18.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+<div class=Section1 style='layout-grid:14pt'>
+
+
+<p class=MsoNormal align=left style='text-align:left;line-height:150%;margin-top:3.6pt;'><span lang=EN-US style='font-size:9.0pt;line-height:150%'><a href="http://3y.uu456.com/ss_01d01k02d03202x03803d01f01w01t03202x03102p03802x033032hlik1zk1zmr2_1.html"><span lang=EN-US style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";text-decoration:none;text-underline:none'><span lang=EN-US>点这里，有很多篇《18Unity3DAnimation外文文献》</span></span></a><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left'><span style='font-size:12.0pt;font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>在线阅读本文：</span><span lang=EN-US style='font-size:12.0pt;color:#999999'><a href="http://3y.uu456.com/bp_1iwce8bx3b44s0x0dy1m_1.html"><span
+style='text-decoration:none;text-underline:none'>http://3y.uu456.com/bp_1iwce8bx3b44s0x0dy1m_1.html</span></a><o:p></o:p></span></p>
+
+<h1 align=center style='text-align:center'><span style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman"'>18Unity3DAnimation外文文献</span></h1>
+
+
+<div class=MsoNormal style='margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:2em;mso-char-indent-count:2.0;
+line-height:20pt;mso-line-height-rule:exactly;font-family:宋体;
+mso-hansi-font-family:宋体;'><hr color="#FFFFFF" width="300">                                                <p>Untiy3D Animation</p>                                                                <p>Unity?s Animation features include Retargetable animations, Full control of animation weights at runtime, Event calling from within the animation playback, Sophisticated State Machine</p>                                                                <p>hierarchies and transitions, Blend shapes for facial animations, and more.</p>                                                                <p>Read this section to find out how to import and work with imported animation and how to animate objects, colours, and any other parameters within Unity itself.</p>                                                                <p>Animation System Overview</p>                                                                <p>Unity has a rich and sophisticated animation system (sometimes referred to as ?Mecanim?). It provides:</p>                                                                <p>Easy workflow and setup of animations for all elements of Unity including objects, characters, and properties.</p>                                                                <p>Support for imported animation clips and animation created within Unity</p>                                                                <p>Humanoid animation retargeting - the ability to apply</p>                                                                <p>animations from one character model onto another.</p>                                                                <p>Simplified workflow for aligning animation clips.</p>                                                                <p>Convenient preview of animation clips, transitions and</p>                                                                <p>interactions between them. This allows animators to work more independently of programmers, prototype and preview their animations before gameplay code is hooked in.</p>                                                                <p>Management of complex interactions between animations with a visual programming tool.</p>                                                                <p>Animating different body parts with different logic.</p>                                                                <p>Layering and masking features</p>                                                                <p>Animation workflow</p>                                                                                                                        <p>Unity?s animation system is based on the concept of Animation Clips, which contain information about how certain objects should change their position, rotation, or other properties over time. Each clip can be thought of as a single linear recording. Animation clips from external sources are created by artists or animators with 3rd party tools such as Max or Maya, or come from motion capture studios or other sources.</p>                                                                <p>Animation Clips are then organised into a structured</p>                                                                <p>flowchart-like system called an Animator Controller. The Animator Controller acts as a “State Machine” which keeps track of which clip should currently be playing, and when the animations should change or blend together.</p>                                                                <p>A very simple Animator Controller might only contain one or two clips, for example to control a powerup spinning and bouncing, or to animate a door opening and closing at the correct time. A more advanced Animator Controller might contain dozens of humanoid animations for all the main character?s actions, and might blend between multiple clips at the same time to provide a fluid motion as the player moves around the scene.</p>                                                                <p>Unity?s Animation system also has numerous special features for handling humanoid characters which give you the ability</p>                                                                <p>to retargethumanoid animation from any source (Eg. motion capture, the asset store, or some other third-party animation library) to your own character model, as well as adjusting muscle definitions. These special features are enabled by Unity?s Avatar system, where humanoid characters are mapped to a common internal format.</p>                                                                <p>Each of these pieces - the Animation Clips, the Animator</p>                                                                <p>Controller, and the Avatar, are brought together on a GameObject via theAnimator Component. This component has a reference to an</p>                                                                <p>Animator Controller, and (if required) the Avatar for this model. The Animator Controller, in turn, contains the references to the Animation Clips it uses.</p>                                                                                                                                                                                                                                                        <p> </p>                                                                <p>The above diagram shows the following:</p>                                                                <p>Animation clips are imported from an external source or created within Unity. In this example, they are imported motion captured humanoid animations.</p>                                                                <p>The animation clips are placed and arranged in an Animator Controller. This shows a view of an Animator Controller in the Animator window. The States (which may represent animations or nested sub-state machines) appear as nodes connected by lines. This Animator Controller exists as an asset in the Project window.</p>                                                                <p>The rigged character model (in this case, the astronaut “Astrella”) has a specific configuration of bones which are mapped to Unity?s common Avatar format. This mapping is stored as an Avatar asset as part of the imported character model, and also appears in the Project window as shown.</p>                                                                <p>When animating the character model, it has an Animator</p>                                                                <p>component attached. In the Inspector view shown above, you can see the Animator Component which has both the Animator</p>                                                                <p>Controller and the Avatar assigned. The animator uses these together to animate the model. The Avatar reference is only necessary when animating a humanoid character. For other types of animation, only an Animator Controller is required.</p>                                                                                                                        <p>Unity?s animation system (Known as “Mecanim”) comes with a lot of concepts and terminology. If at any point, you need to find out what something means, go to our Animation Glossary.</p>                                                                <p>Legacy animation system</p>                                                                <p>While Mecanim is recommended for use in most situations, Unity has retained its legacy animation system which existed before Unity 4. You may need to use when working with older content created before Unity 4. For information on the Legacy animation system, see this section</p>                                                                <p>Unity intends to phase out the Legacy animation system over time for all cases by merging the workflows into Mecanim. Animation Clips</p>                                                                <p>Animation Clips are one of the core elements to Unity?s</p>                                                                <p>animation system. Unity supports importing animation from external sources, and offers the ability to create animation clips from scratch within the editor using the Animation window.</p>                                                                <p>Animation from External Sources</p>                                                                <p>Animation clips imported from external sources could include: Humanoid animations captured at a motion capture studio Animations created from scratch by an artist in an external 3D application (such as 3DS Max or Maya)</p>                                                                <p>Animation sets from 3rd-party libraries (eg, from Unity?s asset store)</p>                                                                <p>Multiple clips cut and sliced from a single imported timeline. Animation Created and Edited Within Unity</p>                                                                <p>Unity?s Animation Window also allows you to create and edit animation clips. These clips can animate:</p>                                                                                                                        <p>The position, rotation and scale of GameObjects</p>                                                                <p>Component properties such as material colour, the intensity of a light, the volume of a sound</p>                                                                <p>Properties within your own scripts including float, int, Vector and boolean variables</p>                                                                <p>The timing of calling functions within your own scripts</p>                                                                <p>Animation from External Sources</p>                                                                <p>Overview of Imported Animation</p>                                                                <p>Animation from external sources is imported into Unity in the same way as regular 3D files. These files, whether they?re generic FBX files or native formats from 3D software such as Maya, Cinema 4D, 3D Studio Max, can contain animation data in the form of a linear recording of the movements of objects within the file.</p>                                                                <p>In some situations the object to be animated (eg, a character) and the animations to go with it can be present in the same file. In other cases, the animations may exist in a separate file to the model to be animated.</p>                                                                <p>It may be that animations are specific to a particular model, and cannot be re-used on other models. For example, a giant octopus end-boss in your game might have a unique arrangement of limbs and bones, and its own set of animations.</p>                                                                <p>In other situations, it may be that you have a library of</p>                                                                <p>animations which are to be used on various different models in your scene. For example, a number of different humanoid characters might all use the same walk and run animations. In these situations, it?s common to have a simple placeholder model in your animation files for the purposes of previewing them. Alternatively, it is possible to use animation files even if they have no geometry at all, just the animation data.</p>                                                                        <p>三亿文库3y.uu456.com包含各类专业文献、中学教育、文学作品欣赏、外语学习资料、各类资格考试、幼儿教育、小学教育、18Unity3DAnimation外文文献等内容。</p><dl class=showpage><a href=bp_1iwce8bx3b44s0x0dy1m_1.html id=on >1</a><a href=bp_1iwce8bx3b44s0x0dy1m_2.html>2</a><a href=bp_1iwce8bx3b44s0x0dy1m_3.html>3</a><a href=bp_1iwce8bx3b44s0x0dy1m_4.html>4</a><a href=bp_1iwce8bx3b44s0x0dy1m_5.html>5</a><a title="18Unity3DAnimation外文文献" target="_blank" href=ss_01d01k02d03202x03803d01f01w01t03202x03102p03802x033032hlik1zk1zmr2_1.html>6</a></dl><p>　</p></div>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>三亿文库</span><span lang=EN-US><a
+href="http://3y.uu456.com/">http://3y.uu456.com/</a></span></p>
+
+<p class=MsoFooter align=center style='text-align:center'><span
+style='font-family:宋体;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";color:#993300'>上亿文档资料，等你来发现</span><span lang=EN-US style='font-size:16.0pt;mso-bidi-font-size:10.0pt;color:#993300'><o:p></o:p></span></p>
+</div>
+</body></html>
